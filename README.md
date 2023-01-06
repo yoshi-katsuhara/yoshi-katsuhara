@@ -1,4 +1,7 @@
-### Hi there 👋
+## My Skills 🌱
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,php,python,firebase,aws,gcp,rails,vscode&theme=dark)](https://skillicons.dev)
+
+
 
 <!--
 **yoshi-katsuhara/yoshi-katsuhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
